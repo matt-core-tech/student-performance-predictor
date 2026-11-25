@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime feedback log (generated during interactive usage)
+predictions_feedback.csv
+
+# Temporary test artifacts
+tests/temp_test_data.csv
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
